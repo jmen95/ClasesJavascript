@@ -10,4 +10,4 @@ Clases de Javascript para principiantes
     -- Conceptos POO en javascript
     -- Clases en javascript
     -- Herencia en Javascript
-    --Ecmascript6
+    -- Ecmascript6
